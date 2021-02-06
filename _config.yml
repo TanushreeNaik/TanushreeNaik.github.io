@@ -7,13 +7,13 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Tanushree Naik
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Research and Data Analyst
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Homepage,Data, Analyst
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,32 +22,34 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: contact@tanushreenaik.com
+facebook_username: /
+twitter_username: /
+instagram_username: /
+linkedin_username: /
+github_username:  /
+youtube_channel_id: /
 reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 0
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 0
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Tanushree Naik
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://lh5.googleusercontent.com/_6OfFfBbXSONJHAfMT1bEl-d_oCqSzq4BHChdLSn3UrTMThu1iAqfge7jwBX48j208_2L5tQSw=w1280
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: I'm an enthusiastic Data Scientist excited to work on augmentation of health sciences using big data and machine learning. I like working in a team and interacting with people. Being able to identify problems/questions and finding solutions to them is what excites me! I am self-motivated and have the proven ability to meet milestones and deliver results in a time bound manner that have led to the completion of 2 projects and 3 international publications.  I possess strong communication skills as evidenced by 2 poster presentations, and 5 talks on national and international platforms during my PhD. In the field of Biology, I have worked on several different model systems giving me the ability to learn and adapt quickly. I am currently looking for opportunities in the filed of data science and eager to work in an energetic team.
+
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/TanushreeNaik
 
 # SASS
 sass:
@@ -95,3 +97,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - local/
